@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "877287267300",
+    "project_id": "the-runner-buddy",
+    "storage_bucket": "the-runner-buddy.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:877287267300:android:5e4845557077e5d935c5f1",
+        "android_client_info": {
+          "package_name": "com.rishistech.runnerbuddy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "877287267300-89fe2tlh78c9k2q03vvd9avqqtsrh6nn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBNskOA-t0BBeIDXW5VSKQpIgbXTSZraQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "877287267300-89fe2tlh78c9k2q03vvd9avqqtsrh6nn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
